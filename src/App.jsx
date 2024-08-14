@@ -72,7 +72,7 @@ const App = () => {
 
   return (
     <>
-      <div className='mx-auto max-w-[370px] px-4 border-[3px] h-screen bg-slate-800'>
+      <div className='mx-auto max-w-[370px] px-4 border-[3px] h-screen bg-slate-700'>
         <Navbar></Navbar>
         <div className='flex gap-2'>
           <div className='flex flex-grow items-center relative'>
